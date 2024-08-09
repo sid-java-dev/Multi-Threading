@@ -1,0 +1,19 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$f757361a-ff2f-4baa-af4a-ae2d73edbb3f
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$8d45b5a4-e364-433d-a2b9-d194486c5b91
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç¬ãJ$b2daf61b-ccd4-4e03-b030-2ad1f74879fb
+k	java:S106
+"+Replace this use of System.out by a logger.(üîæªøÿÿÿÿJ$b24dd1b1-6a99-4ed6-bc1c-a91813f3548b
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$122b8604-7c3c-4494-89e5-1174ff5339fe
+
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËèJ$5f5f9306-7515-4e39-b69e-be7718727bd2
+k	java:S106"+Replace this use of System.out by a logger.(ÁØ˜ÿÿÿÿÿJ$5e5d705e-6577-4d2b-bb19-e1723e370621
+k	java:S106"+Replace this use of System.out by a logger.(úÃŞßşÿÿÿÿJ$414fe711-a7bb-4566-ae0c-24f6c128f872
+k	java:S106"+Replace this use of System.out by a logger.(²ÖÉ±úÿÿÿÿJ$7e3029c4-ca59-4c51-880f-99d2c4d53a97
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$96cc81fc-87cc-47a7-aa88-e2ac52e214a5
+„
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿJ$e9751a77-fa8d-46fb-a60d-67f2e7b3ffce
+f	java:S106"+Replace this use of System.out by a logger.(‹şéåJ$76bce7a5-c8da-42f6-94c0-16e07344de2c
+f	java:S106!"+Replace this use of System.out by a logger.(À­ßÔJ$de7e8e38-84a4-4000-bab6-7705e10aa35d

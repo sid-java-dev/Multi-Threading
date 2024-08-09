@@ -1,0 +1,18 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$e242594d-55be-4521-a164-9be845b4fa23
+†	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$b4d2f2bb-bbc7-4e28-a70e-6195fed68338
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õùµ…ÿÿÿÿÿJ$3c2570d5-a924-4c36-9a9b-2775765854cf
+h
+java:S1602",Remove useless curly braces around statement(ÐÇ¯²J$6e81e21b-851d-4f63-9bfd-9c7f66ea96b2
+m
+java:S1602	",Remove useless curly braces around statement(¿¶Ç«ÿÿÿÿÿJ$cebb0d13-62dc-453f-b6f6-a708ba123084
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$aeb90cc7-68e4-4242-a933-cc44ad90a728
+f	java:S106"+Replace this use of System.out by a logger.(’ž„×J$76b3331d-4788-4010-b8f0-ddac51ee19d5
+q
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿJ$711c32e3-6116-49ae-b2f0-72715e0f5d0b
+š
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$68be28bc-7cde-456e-b0cb-388b2742f47a
+f	java:S106,"+Replace this use of System.out by a logger.(ßð¶¾J$4b5b04c6-26bc-4599-b50e-9ff2cc4fa2ad
+q
+java:S2446."0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿJ$dec2ffd1-bb70-412b-b01d-312d187d4e74
